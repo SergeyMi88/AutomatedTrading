@@ -1,7 +1,8 @@
-title: Автоматизация торговли
+title: 3. Автоматизация торговли
 optionalCategoryIndex: true
 language: ru
-supportedLanguages: []
+supportedLanguages:
+  - ru
 properties: []
 description: Создание, тестирование скриптов. Торговля агентами
 style: green
