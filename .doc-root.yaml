@@ -6,3 +6,5 @@ supportedLanguages:
 properties: []
 description: Создание, тестирование скриптов. Торговля агентами
 style: green
+group: tslab
+order: 3
